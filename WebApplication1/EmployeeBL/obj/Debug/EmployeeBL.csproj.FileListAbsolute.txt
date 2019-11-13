@@ -1,0 +1,12 @@
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\EmployeeBL.dll
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\EmployeeBL.pdb
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\Autofac.dll
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\Autofac.pdb
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\Autofac.xml
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\obj\Debug\EmployeeBL.csprojAssemblyReference.cache
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\obj\Debug\EmployeeBL.csproj.CoreCompileInputs.cache
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\obj\Debug\EmployeeBL.csproj.CopyComplete
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\obj\Debug\EmployeeBL.dll
+C:\Users\aospina\Documents\Visual Studio 2017\Projects\WebApplication1\EmployeeBL\obj\Debug\EmployeeBL.pdb
